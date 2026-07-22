@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { supabase } from "./supabaseClient";
-import logo from "./assests/logo.png";
-import background from "./assests/background.jpg";
+import logo from "./assets/logo.png";
+import background from "./assets/background.jpg";
 
 const NAVY = "#1B2A4A";
 const RUST = "#C1622D";

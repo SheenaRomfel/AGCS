@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useCallback } from "react";
 import { supabase } from "./supabaseClient";
 import * as XLSX from "xlsx";
-import logo from "./assests/logo.png";
-import background from "./assests/background.jpg";
+import logo from "./assets/logo.png";
+import background from "./assets/background.jpg";
 
 
 

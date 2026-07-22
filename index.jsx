@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom/client";
-import logo from "../All good christian school/assests/logo.png";
-import background from "../All good christian school/assests/background.jpg";
+import logo from ".assests/logo.png";
+import background from "./assests/background.jpg";
 import "./style.css";
 import { supabase } from "./supabaseClient";
 import AdminGrades from "./AdminGrades";
