@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom/client";
 import logo from "../All good christian school/assests/logo.png";
 import background from "../All good christian school/assests/background.jpg";
-import "./login.css";
+import "./style.css";
 import { supabase } from "./supabaseClient";
 import AdminGrades from "./AdminGrades";
 import StudentGrades from "./StudentGrades";
